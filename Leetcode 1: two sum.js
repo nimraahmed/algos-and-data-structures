@@ -1,4 +1,4 @@
-//solution for Leetcode 1. Two sum
+//solution for Leetcode 1. Two sum: https://leetcode.com/problems/two-sum/description/ 
 //step-by-step explanation at: https://nimraahmed.hashnode.dev/
 
 var twoSum = function(nums, target) {
